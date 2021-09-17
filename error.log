@@ -1,5 +1,0 @@
-[09/17/2021 15:10:57] ERROR: The term 'Get-BackupCheck' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
-[09/17/2021 15:11:38] ERROR: Cannot find drive. A drive with the name ''C' does not exist.
-[09/17/2021 15:11:50] ERROR: The term 'Get-BackupCheck' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
-[09/17/2021 15:12:14] ERROR: The term 'Get-BackupCheck' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
-[09/17/2021 15:13:49] ERROR: Transaction failed. The server response was: 5.7.1 <davidlvdovenko@gmail.com>: Relay access denied
