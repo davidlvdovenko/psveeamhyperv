@@ -1,0 +1,26 @@
+{
+    "CompanyName": "Customer Name",
+    "HyperVClusters": [
+        "HYPERVSERVER1",
+        "HYPERVSERVER2"
+    ],
+    "ExcludedServers": [
+        "EXCLUDEDVM1",
+        "EXCLUDEDVM2",
+        "EXCLUDEDVM3",
+        "EXCLUDEDVM4"
+
+    ],
+    "ScriptDirectory": "C:\\Users\\user\\Desktop\\Powershell Veeam Hyper-V Backup Report\\BackupReport.psm1",
+    "VeeamServer":"VEEAMSERVER1",
+    "Username":"VeeamAdministrator",
+    "Password": "VeeamAdminPassword",
+    "MSPName": "MSP Company",
+    "Email":{
+        "To":[
+            "email1@example.com","email2@example.com"
+        ],
+        "From":"FromThisEmail@example.com",
+        "Server":"relay.example.com"
+    }
+}
