@@ -36,7 +36,6 @@ function New-BackupCheckReport {
             Title "$($BackupCheck.CompanyName) Backup Report"
             $links = @{ 
                 rel="stylesheet"
-                # href="C:\scripts\WowrackBackupReport21.09\bootstrap-min.css" (KEEP THIS AS A BACKUP - DO NOT DELETE)
                 href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
                 #integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" 
                 #crossorigin="anonymous"
@@ -49,7 +48,6 @@ function New-BackupCheckReport {
         body{
             nav -class "navbar navbar-dark bg-dark"{
                 a -class "navbar-brand" {
-                    # img -Class "mr-3" -src "C:\scripts\WowrackBackupReport21.09\logo.png" -width 30 (KEEP THIS AS A BACKUP - DO NOT DELETE)
                     img -Class "mr-3" -src "https://www.wowrack.com/blog/wp-content/uploads/2016/07/logo-2.png" -width 30
                     "$MSPName Backup Report"
                 } -href "#"
