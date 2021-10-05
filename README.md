@@ -7,7 +7,7 @@ For more information: https://www.davidlvdovenko.net/blog-powershell-veeam-hyper
 
 Prerequisites: Setup Veeam, Microsoft Hyper-V server, SMTP Relay, and a general understanding of PowerShell and WINS.
 
-Before we begin, full disclosure – I did not write any of these scripts. I found them and decided it could be a great tool for anyone looking for a solution. With that out the way – let’s take a look at what this does and how to use it.
+Before we begin, full disclosure – **I did not write any of these scripts**. I found them and decided it could be a great tool for anyone looking for a solution. With that out the way – let’s take a look at what this does and how to use it.
 
 This collection of PowerShell scripts takes a Hyper V server’s list of VMs and compares it to backup jobs and tasks found on a Veeam Backup and Replication server. It then spits out the results in an easy-to-read HTML file and emails it to you using an SMTP relay.
 
