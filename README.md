@@ -1,4 +1,4 @@
-# psveeamhyperv
+# Veeam Backup Report for Hyper V Cluster
 A bundle of powershell scripts that sends reports over an SMTP Relay about Backup Jobs found in Veeam and compares it against a Hyper-V cluster.
 
 For more information: https://davidlvdovenko.com/powershell-veeam-hyperv/
