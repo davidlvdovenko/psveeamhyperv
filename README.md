@@ -91,7 +91,3 @@ Now comes the easy part. Go to your task scheduler and run the main “BackupRep
 If you have questions about the Veeam Snap-In for PowerShell you can visit the Veeam wiki and learn more about the different commands you can use. Below is the link to the wiki:
 
      https://helpcenter.veeam.com/docs/backup/powershell/getting_started.html
-
-## Troubleshooting
-
-If you happen to run into any issues while using the script, errors, or difficulties setting it up, contact me and I will attempt to reach and help you as best I can. Common issues or problems will also be listed here for everybody’s reference. Cheers, and Enjoy!
